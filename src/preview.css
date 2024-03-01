@@ -1,0 +1,70 @@
+/* preview.css */
+
+.container {
+height: 80vh;
+width: 56vw;
+overflow: auto;
+border: 2px solid #ccc;
+padding: 10px;
+text-align: left;
+margin-left: 20px;
+border-radius: 5px;
+color: whitesmoke;
+}
+
+/* Style headings */
+h1 {
+color: #535C91;
+}
+
+/* Style paragraphs */
+p {
+margin-bottom: 10px;
+}
+
+/* Style links */
+a {
+color: blue;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+/* Style images */
+img {
+max-width: 100%;
+height: auto;
+margin-bottom: 10px;
+}
+
+/* Style code blocks */
+pre {
+background-color: #f4f4f4;
+padding: 10px;
+border-radius: 5px;
+overflow: auto;
+color:#535C91 ;
+}
+
+/* Style blockquotes */
+blockquote {
+border-left: 2px solid #ccc;
+padding-left: 10px;
+margin-left: 0;
+}
+
+/* Style lists */
+ul, ol {
+margin-left: 20px;
+}
+
+/* Style tables */
+table {
+border-collapse: collapse;
+}
+
+table, th, td {
+border: 1px solid #ccc;
+padding: 5px;
+}

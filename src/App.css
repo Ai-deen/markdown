@@ -1,0 +1,35 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  background-color: #9290C3;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.editor {
+  height: 80vh;
+  width: 40vw;
+  margin-left: 10px;
+  background-color: #9290C3;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  color:#FEFBF3;
+  box-shadow: #ccc;
+}
+
+header {
+  background-color: #E8E8E8;
+  height: 7vh;
+  width: 100vw;
+  color: #535C91;
+  text-align: center;
+  font-size: 35px;
+  margin: 0;
+  font-weight: 500;
+}
